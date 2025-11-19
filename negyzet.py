@@ -20,3 +20,5 @@ for i in range(4):
 
     robot.turn(90)
 #Elias Peter
+#Medve Marcell
+
