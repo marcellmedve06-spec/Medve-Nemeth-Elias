@@ -4,3 +4,5 @@
 Medve Marcell
 
 # Medve Marcell
+
+https://www.aelius.com/njh/subnet_sheet.html
